@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2460-apply-operations-to-an-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2460-apply-operations-to-an-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
@@ -52,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
