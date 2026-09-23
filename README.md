@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3668-restore-finishing-order](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0349-intersection-of-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
