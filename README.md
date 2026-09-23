@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Math
+|  |
+| ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
