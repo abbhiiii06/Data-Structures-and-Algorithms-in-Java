@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0485-max-consecutive-ones) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0189-rotate-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
