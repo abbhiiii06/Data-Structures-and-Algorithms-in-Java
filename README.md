@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3668-restore-finishing-order) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3925-concatenate-array-with-reverse](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -80,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
