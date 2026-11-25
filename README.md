@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3668-restore-finishing-order) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -92,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
