@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0349-intersection-of-two-arrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abbhiiii06/Data-Structures-and-Algorithms-in-Java/tree/master/2089-find-target-indices-after-sorting-array) |
